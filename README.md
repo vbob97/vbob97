@@ -1,7 +1,7 @@
 Hi 👋 My name is Vincenzo
 =========================
 
-software engineer
+Software Engineer
 -----------------
 
 I love designing and developing software. I am always ready to start a new project with new and stimulating technologies.
